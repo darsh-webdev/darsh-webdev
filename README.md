@@ -10,9 +10,9 @@ I'm a passionate web developer with hands-on experience in developing successful
 
 
 *   🌍  I'm based in Mumbai, India.
-*   🙋🏽‍♂️ Currently available for hire.
+*   💻  Currently working as a Software Engineer at [PrideVel Technologies Limited](https://www.pridevel.com/).
 *   ✉️  You can contact me at [rajputdarshanashok@gmail.com](mailto:rajputdarshanashok@gmail.com)
-*   🧠  I'm currently interested in learning TypeScript and NextJS.
+*   🧠  I'm currently interested in learning React Native and GoLang.
 *   ⚡  Non-tech activities I do: Football ⚽️, Gaming 🎮, Reading 📖, Travelling ✈️ and much more...
 
 ### Skills & Tools
