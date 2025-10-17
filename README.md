@@ -3,7 +3,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Darshan Rajput.
 =======================================================================================================================================
 
-🖥️ Full Stack Developer
+🖥️ Full Web Stack Developer
 ----------------------------
 
 I'm a passionate web developer with hands-on experience in developing successful and scalable web applications. Skilled in a range of programming languages and javascript frameworks. 
