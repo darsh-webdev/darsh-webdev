@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🖥️ Full Stack Web Developer
 ----------------------------
 
-I'm a passionate web developer with hands-on experience in developing successful and scalable web applications. Skilled in a range of programming languages and javascript frameworks. 
+I'm a passionate web3 developer with hands-on experience in developing successful and scalable web applications. Skilled in a range of programming languages and javascript frameworks. 
 
 
 *   🌍  I'm based in Mumbai, India.
