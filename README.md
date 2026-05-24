@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🖥️ Full Stack Web Developer
 ----------------------------
 
-I’m a passionate web developer with hands-on experience in building successful, scalable web applications. I’m skilled in a range of programming languages, modern JavaScript frameworks, and have practical experience working with Web3 technologies, including blockchain-based applications and decentralized systems.
+I’m a passionate web developer with hands-on experience in building successful, scalable web applications. I’m skilled in a range of programming languages, modern JavaScript frameworks, and have practical experience working with Web3 technologies, including blockchain-based applications and decentralized systems. I also leverage AI-powered tools and workflows to boost productivity, accelerate development, and write efficient, high-quality code.
 
 
 *   🌍  I'm based in Mumbai, India.
