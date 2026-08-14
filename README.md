@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I’m a passionate web developer with hands-on experience in building successful, scalable web applications. I’m skilled in a range of programming languages, modern JavaScript/TypeScript frameworks, and have practical experience working with Web3 technologies, including blockchain-based applications and decentralized systems. I also leverage AI-powered tools and workflows to boost productivity, accelerate development, and write efficient, high-quality code.
 
 
-*   🌍  I'm based in Mumbai, India.
+*   🌍  I'm based in Mumbai, Maharashtra, India.
 *   💻  Currently working as a Software Engineer at [PrideVel Technologies Limited](https://www.pridevel.com/).
 *   ✉️  You can contact me at [rajputdarshanashok@gmail.com](mailto:rajputdarshanashok@gmail.com)
 *   🧠  I'm currently interested in learning Agentic AI, React Native and GoLang.
